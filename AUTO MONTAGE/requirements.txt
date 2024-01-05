@@ -1,0 +1,2 @@
+google-cloud-speech==2.8.0
+moviepy==1.0.3

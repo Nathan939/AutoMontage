@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "Auto montage",
+    "private_key_id": "Clé API 1",
+    "private_key": "AIzaSyA1OmRl25RytdIX56WzxVbICTdcFDGZAgc",
+    "client_email": "martinellinathan939@gmail.com",
+    "client_id": "Nathan Martinelli",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/your-client-email@your-project.iam.gserviceaccount.com"
+  }
